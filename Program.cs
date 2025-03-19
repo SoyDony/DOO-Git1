@@ -7,6 +7,7 @@ namespace DOO_Git1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+<<<<<<< HEAD
 
         }
     }
@@ -17,4 +18,13 @@ namespace DOO_Git1
         public int edad;
         public string pais;
     }
+=======
+        }
+
+        public class animal
+        {
+
+        }
+    }
+>>>>>>> 6362f0d2e5b809a84e42648b93544a834bec3740
 }
