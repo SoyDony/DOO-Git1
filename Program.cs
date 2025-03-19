@@ -15,5 +15,6 @@ namespace DOO_Git1
     {
         public string raza;
         public int edad;
+        public string pais;
     }
 }
